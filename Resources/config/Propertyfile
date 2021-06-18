@@ -1,0 +1,5 @@
+browsername=chrome
+url=http://testautomationpractice.blogspot.com/
+chromedriverpath=..\\Blogspot\\Resources\\drivers\\chromedriver.exe
+firefoxdriverpath=..\\Blogspot\\Resources\\drivers\\geckodriver.exe
+iedriverpath=..\\Blogspot\\Resources\\drivers\\IEDriverServer.exe

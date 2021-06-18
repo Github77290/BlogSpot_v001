@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50382" started-at="2021-06-18T15:13:11 IST" finished-at="2021-06-18T15:14:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50382" started-at="2021-06-18T15:13:11 IST" finished-at="2021-06-18T15:14:02 IST">
+      <class name="com.Blogspot.Tests.Testautomation">
+        <test-method status="PASS" signature="intilize()[pri:0, instance:com.Blogspot.Tests.Testautomation@87f383f]" name="intilize" is-config="true" duration-ms="182" started-at="2021-06-18T15:13:11 IST" finished-at="2021-06-18T15:13:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilize -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.Blogspot.Tests.Testautomation@87f383f]" name="launchbrowser" is-config="true" duration-ms="16333" started-at="2021-06-18T15:13:12 IST" finished-at="2021-06-18T15:13:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.Blogspot.Tests.Testautomation@87f383f]" name="openApplication" is-config="true" duration-ms="9288" started-at="2021-06-18T15:13:28 IST" finished-at="2021-06-18T15:13:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifyTestAutomation()[pri:0, instance:com.Blogspot.Tests.Testautomation@87f383f]" name="verifyTestAutomation" duration-ms="19683" started-at="2021-06-18T15:13:37 IST" finished-at="2021-06-18T15:13:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestAutomation -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.Blogspot.Tests.Testautomation@87f383f]" name="closebrowser" is-config="true" duration-ms="3774" started-at="2021-06-18T15:13:57 IST" finished-at="2021-06-18T15:14:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.Blogspot.Tests.Testautomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

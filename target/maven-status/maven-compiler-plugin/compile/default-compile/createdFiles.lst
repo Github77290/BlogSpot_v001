@@ -1,0 +1,7 @@
+com\Blogspot\Utilities\Excelutil.class
+com\Blogspot\globalPage\BasePage.class
+com\Blogspot\Utilities\Log.class
+com\Blogspot\Utilities\Reporting.class
+com\Blogspot\globalTest\BaseTest.class
+com\Blogspot\Utilities\ScreenRecorderUtil.class
+com\Blogspot\Utilities\propertyutil.class

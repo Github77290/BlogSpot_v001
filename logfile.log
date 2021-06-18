@@ -1,0 +1,164 @@
+2021-06-18 15:13:28,122 INFO  [Log] Successfully Lanch the Browser 
+2021-06-18 15:13:37,809 INFO  [Log] Successfully Open the Application 
+2021-06-18 15:13:40,146 INFO  [Log] Sucessfully verify Header Title 
+2021-06-18 15:13:41,062 INFO  [Log] Sucessfully verify New Window 
+2021-06-18 15:13:42,573 INFO  [Log] Sucessfully verify Alerts 
+2021-06-18 15:13:45,848 INFO  [Log] Sucessfully verify Datepicker 
+2021-06-18 15:13:46,783 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:13:46,805 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:13:46,826 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:13:46,844 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:13:46,866 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:13:46,866 ERROR [Log] Failed to Verify the Select Speed  
+2021-06-18 15:13:47,135 INFO  [Log] Verify the selectfile 
+2021-06-18 15:13:47,150 INFO  [Log] Verify the selectfile 
+2021-06-18 15:13:47,172 INFO  [Log] Verify the selectfile 
+2021-06-18 15:13:47,191 INFO  [Log] Verify the selectfile 
+2021-06-18 15:13:47,191 ERROR [Log] Failed to Verify the Selectfile  
+2021-06-18 15:13:47,487 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:13:47,503 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:13:47,525 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:13:47,542 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:13:47,556 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:13:47,557 ERROR [Log] Failed to Verify the selectNumber 
+2021-06-18 15:13:47,796 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:13:47,811 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:13:47,829 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:13:47,851 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:13:47,851 ERROR [Log] Failed to Verify the selectProduct 
+2021-06-18 15:13:48,063 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:13:48,079 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:13:48,099 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:13:48,130 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:13:48,130 ERROR [Log] Failed to Verify the selectAnimals 
+2021-06-18 15:13:48,847 INFO  [Log] Succesfully verify Drag and Drop 
+2021-06-18 15:13:49,673 INFO  [Log] Succesfully verify Drag and Drop images 
+2021-06-18 15:13:50,467 INFO  [Log] Succesfully verify slider 
+2021-06-18 15:13:51,111 INFO  [Log] Succesfully verify Resizable 
+2021-06-18 15:13:56,039 INFO  [Log] Succesfully verify Barcode 
+2021-06-18 15:13:56,503 INFO  [Log] Succesfully verify QRcode 
+2021-06-18 15:13:57,398 INFO  [Log] Succesfully verify Table 
+2021-06-18 15:14:01,357 INFO  [Log] Successfully Close the Browser 
+2021-06-18 15:34:56,763 INFO  [Log] Successfully Lanch the Browser 
+2021-06-18 15:35:11,741 INFO  [Log] Successfully Open the Application 
+2021-06-18 15:35:14,826 INFO  [Log] Sucessfully verify Header Title 
+2021-06-18 15:35:16,118 INFO  [Log] Sucessfully verify New Window 
+2021-06-18 15:35:17,900 INFO  [Log] Sucessfully verify Alerts 
+2021-06-18 15:35:19,886 INFO  [Log] Sucessfully verify Datepicker 
+2021-06-18 15:35:20,482 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:35:20,507 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:35:20,528 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:35:20,550 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:35:20,568 INFO  [Log]  Verify the Select Speed  
+2021-06-18 15:35:20,568 ERROR [Log] Failed to Verify the Select Speed  
+2021-06-18 15:35:20,941 INFO  [Log] Verify the selectfile 
+2021-06-18 15:35:20,965 INFO  [Log] Verify the selectfile 
+2021-06-18 15:35:20,990 INFO  [Log] Verify the selectfile 
+2021-06-18 15:35:21,008 INFO  [Log] Verify the selectfile 
+2021-06-18 15:35:21,008 ERROR [Log] Failed to Verify the Selectfile  
+2021-06-18 15:35:21,305 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:35:21,326 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:35:21,348 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:35:21,366 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:35:21,387 INFO  [Log] Verify the selectNumber 
+2021-06-18 15:35:21,388 ERROR [Log] Failed to Verify the selectNumber 
+2021-06-18 15:35:21,692 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:35:21,715 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:35:21,738 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:35:21,758 INFO  [Log] Verify the selectProduct 
+2021-06-18 15:35:21,758 ERROR [Log] Failed to Verify the selectProduct 
+2021-06-18 15:35:22,022 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:35:22,058 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:35:22,083 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:35:22,103 INFO  [Log] Verify the selectAnimals 
+2021-06-18 15:35:22,103 ERROR [Log] Failed to Verify the selectAnimals 
+2021-06-18 15:35:23,303 INFO  [Log] Succesfully verify Drag and Drop 
+2021-06-18 15:35:24,387 INFO  [Log] Succesfully verify Drag and Drop images 
+2021-06-18 15:35:25,353 INFO  [Log] Succesfully verify slider 
+2021-06-18 15:35:25,994 INFO  [Log] Succesfully verify Resizable 
+2021-06-18 15:35:32,918 INFO  [Log] Succesfully verify Barcode 
+2021-06-18 15:35:34,018 INFO  [Log] Succesfully verify QRcode 
+2021-06-18 15:35:35,438 INFO  [Log] Succesfully verify Table 
+2021-06-18 15:35:37,333 INFO  [Log] Successfully Close the Browser 
+2021-06-18 16:05:49,799 INFO  [Log] Successfully Lanch the Browser 
+2021-06-18 16:06:06,477 INFO  [Log] Successfully Open the Application 
+2021-06-18 16:06:09,234 INFO  [Log] Sucessfully verify Header Title 
+2021-06-18 16:06:10,817 INFO  [Log] Sucessfully verify New Window 
+2021-06-18 16:06:12,299 INFO  [Log] Sucessfully verify Alerts 
+2021-06-18 16:06:16,370 INFO  [Log] Sucessfully verify Datepicker 
+2021-06-18 16:06:17,589 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:06:17,612 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:06:17,634 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:06:17,653 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:06:17,675 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:06:17,675 ERROR [Log] Failed to Verify the Select Speed  
+2021-06-18 16:06:18,043 INFO  [Log] Verify the selectfile 
+2021-06-18 16:06:18,071 INFO  [Log] Verify the selectfile 
+2021-06-18 16:06:18,094 INFO  [Log] Verify the selectfile 
+2021-06-18 16:06:18,116 INFO  [Log] Verify the selectfile 
+2021-06-18 16:06:18,116 ERROR [Log] Failed to Verify the Selectfile  
+2021-06-18 16:06:18,450 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:06:18,471 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:06:18,488 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:06:18,508 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:06:18,530 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:06:18,531 ERROR [Log] Failed to Verify the selectNumber 
+2021-06-18 16:06:18,881 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:06:18,900 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:06:18,920 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:06:18,937 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:06:18,937 ERROR [Log] Failed to Verify the selectProduct 
+2021-06-18 16:06:19,183 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:06:19,210 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:06:19,237 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:06:19,260 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:06:19,261 ERROR [Log] Failed to Verify the selectAnimals 
+2021-06-18 16:06:20,086 INFO  [Log] Succesfully verify Drag and Drop 
+2021-06-18 16:06:21,609 INFO  [Log] Succesfully verify Drag and Drop images 
+2021-06-18 16:06:22,453 INFO  [Log] Succesfully verify slider 
+2021-06-18 16:06:23,237 INFO  [Log] Succesfully verify Resizable 
+2021-06-18 16:06:29,136 INFO  [Log] Succesfully verify Barcode 
+2021-06-18 16:06:29,925 INFO  [Log] Succesfully verify QRcode 
+2021-06-18 16:06:31,845 INFO  [Log] Succesfully verify Table 
+2021-06-18 16:06:35,029 INFO  [Log] Successfully Close the Browser 
+2021-06-18 16:08:20,387 INFO  [Log] Successfully Lanch the Browser 
+2021-06-18 16:08:31,067 INFO  [Log] Successfully Open the Application 
+2021-06-18 16:08:33,810 INFO  [Log] Sucessfully verify Header Title 
+2021-06-18 16:08:35,667 INFO  [Log] Sucessfully verify New Window 
+2021-06-18 16:08:36,129 INFO  [Log] Sucessfully verify Alerts 
+2021-06-18 16:08:39,722 INFO  [Log] Sucessfully verify Datepicker 
+2021-06-18 16:08:40,998 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:08:41,036 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:08:41,074 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:08:41,098 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:08:41,146 INFO  [Log]  Verify the Select Speed  
+2021-06-18 16:08:41,146 ERROR [Log] Failed to Verify the Select Speed  
+2021-06-18 16:08:41,508 INFO  [Log] Verify the selectfile 
+2021-06-18 16:08:41,528 INFO  [Log] Verify the selectfile 
+2021-06-18 16:08:41,558 INFO  [Log] Verify the selectfile 
+2021-06-18 16:08:41,578 INFO  [Log] Verify the selectfile 
+2021-06-18 16:08:41,578 ERROR [Log] Failed to Verify the Selectfile  
+2021-06-18 16:08:41,923 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:08:41,949 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:08:41,978 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:08:42,002 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:08:42,023 INFO  [Log] Verify the selectNumber 
+2021-06-18 16:08:42,023 ERROR [Log] Failed to Verify the selectNumber 
+2021-06-18 16:08:42,452 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:08:42,517 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:08:42,562 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:08:42,592 INFO  [Log] Verify the selectProduct 
+2021-06-18 16:08:42,592 ERROR [Log] Failed to Verify the selectProduct 
+2021-06-18 16:08:42,885 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:08:42,914 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:08:42,946 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:08:42,993 INFO  [Log] Verify the selectAnimals 
+2021-06-18 16:08:42,994 ERROR [Log] Failed to Verify the selectAnimals 
+2021-06-18 16:08:43,835 INFO  [Log] Succesfully verify Drag and Drop 
+2021-06-18 16:08:44,730 INFO  [Log] Succesfully verify Drag and Drop images 
+2021-06-18 16:08:45,836 INFO  [Log] Succesfully verify slider 
+2021-06-18 16:08:46,992 INFO  [Log] Succesfully verify Resizable 
+2021-06-18 16:08:50,405 INFO  [Log] Succesfully verify Barcode 
+2021-06-18 16:08:50,815 INFO  [Log] Succesfully verify QRcode 
+2021-06-18 16:08:52,015 INFO  [Log] Succesfully verify Table 
+2021-06-18 16:08:56,846 INFO  [Log] Successfully Close the Browser 

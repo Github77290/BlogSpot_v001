@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50420" started-at="2021-06-18T16:08:06 IST" finished-at="2021-06-18T16:08:56 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50420" started-at="2021-06-18T16:08:06 IST" finished-at="2021-06-18T16:08:56 IST">
+      <class name="com.Blogspot.Tests.Testautomation">
+        <test-method status="PASS" signature="intilize()[pri:0, instance:com.Blogspot.Tests.Testautomation@74650e52]" name="intilize" is-config="true" duration-ms="135" started-at="2021-06-18T16:08:06 IST" finished-at="2021-06-18T16:08:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilize -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.Blogspot.Tests.Testautomation@74650e52]" name="launchbrowser" is-config="true" duration-ms="14182" started-at="2021-06-18T16:08:06 IST" finished-at="2021-06-18T16:08:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.Blogspot.Tests.Testautomation@74650e52]" name="openApplication" is-config="true" duration-ms="10318" started-at="2021-06-18T16:08:20 IST" finished-at="2021-06-18T16:08:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifyTestAutomation()[pri:0, instance:com.Blogspot.Tests.Testautomation@74650e52]" name="verifyTestAutomation" duration-ms="20999" started-at="2021-06-18T16:08:31 IST" finished-at="2021-06-18T16:08:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestAutomation -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.Blogspot.Tests.Testautomation@74650e52]" name="closebrowser" is-config="true" duration-ms="4231" started-at="2021-06-18T16:08:52 IST" finished-at="2021-06-18T16:08:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.Blogspot.Tests.Testautomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
